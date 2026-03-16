@@ -32,6 +32,8 @@ This makes it easy to quickly browse changes in a repository without leaving the
 +----------------------+----------------------------------+
 ```
 
+![preview](./preview.png)
+
 ---
 
 ## Keybinding (Open Diff)
