@@ -1,0 +1,10 @@
+[
+    {
+        "caption": "Git: Open Changes Panel",
+        "command": "git_panel"
+    },
+    {
+        "caption": "Git: Close Changes Panel",
+        "command": "git_panel_close"
+    }
+]
